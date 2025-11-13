@@ -8,7 +8,7 @@
 ### Hi there 👋
 
 I’m currently,
-- 🔭 working on data science projects at Verizon
+- 🔭 working on Machine Learning projects at Meta
 - 🌱 learning about knowledge graphs, generative AI
 - 👯 I’m looking to collaborate on Open sources AI projects 
 
